@@ -11,6 +11,6 @@ public class AzureController {
 
     @GetMapping("/message")
     public String demo(){
-        return "Congrats You App Got Deployed !";
+        return "Congrats Your Application Got Deployed !";
     }
 }
